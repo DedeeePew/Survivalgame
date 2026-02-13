@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e27caa5a23d982648b9228725d82735a
+timeCreated: 1522682281
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/SEP/Models/Objects/SkullLamp/Materials/SkullLamp.mat
+  uploadId: 779929

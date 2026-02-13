@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 66ec717b21868f547a4c6eaedaa89531
+timeCreated: 1523727258
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/SEP/Prefabs/Props/SEP_MedKit.prefab
+  uploadId: 779929

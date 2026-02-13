@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e89f4829db366b84582cf1e906d0cf57
+timeCreated: 1482945360
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/SEP/Prefabs/Environment/Grasses/SEP_Grass02.prefab
+  uploadId: 779929

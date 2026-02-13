@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cb64c4536ee5b445783c428f4a53af1c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/3rdParty/ConiferTree/CTIRuntimeComponents_BIRP/Art/Billboard/ConiferTree_Billboard.mat
+  uploadId: 779929

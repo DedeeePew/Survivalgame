@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3ac10dcb71e502e41b51802e3901c5b3
+timeCreated: 1522678347
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/SEP/Models/Decoration/Barrels/Materials/ExplosiveBarrel.mat
+  uploadId: 779929

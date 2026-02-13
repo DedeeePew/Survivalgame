@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c6a4e982bc3a79f49a42874dc13383db
+timeCreated: 1522676796
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/SEP/Models/Objects/Crates/WoodenCrate01/Materials/WoodenCrate01.mat
+  uploadId: 779929

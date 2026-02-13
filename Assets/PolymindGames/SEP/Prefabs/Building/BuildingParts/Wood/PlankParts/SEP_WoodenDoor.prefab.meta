@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 210fc785191bd514a81180ffa5408ae3
+timeCreated: 1523729116
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/SEP/Prefabs/Building/BuildingParts/Wood/PlankParts/SEP_WoodenDoor.prefab
+  uploadId: 779929

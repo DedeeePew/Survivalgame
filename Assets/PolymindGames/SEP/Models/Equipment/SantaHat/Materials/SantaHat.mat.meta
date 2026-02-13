@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 099dd38e5b54f6a418ae9631b4fce838
+timeCreated: 1522685529
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/SEP/Models/Equipment/SantaHat/Materials/SantaHat.mat
+  uploadId: 779929

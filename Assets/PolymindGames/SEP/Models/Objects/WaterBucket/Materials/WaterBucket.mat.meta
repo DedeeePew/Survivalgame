@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 93d915498c5dfaf4695c974374aad6f7
+timeCreated: 1522683980
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/SEP/Models/Objects/WaterBucket/Materials/WaterBucket.mat
+  uploadId: 779929

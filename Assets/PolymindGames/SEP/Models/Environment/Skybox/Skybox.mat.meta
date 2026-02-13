@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 38959e3e84158c748adc84bc6056b03f
+timeCreated: 1515771603
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/SEP/Models/Environment/Skybox/Skybox.mat
+  uploadId: 779929

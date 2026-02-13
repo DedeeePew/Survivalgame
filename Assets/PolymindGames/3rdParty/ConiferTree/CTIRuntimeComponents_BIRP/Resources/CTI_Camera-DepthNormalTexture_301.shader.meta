@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f1f73434226324b14a7261c1175d543f
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/3rdParty/ConiferTree/CTIRuntimeComponents_BIRP/Resources/CTI_Camera-DepthNormalTexture_301.shader
+  uploadId: 779929

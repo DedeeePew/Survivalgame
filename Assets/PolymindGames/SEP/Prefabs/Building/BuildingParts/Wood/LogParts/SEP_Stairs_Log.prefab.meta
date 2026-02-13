@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4f40a534840ef6c4a9913ad243afdc21
+timeCreated: 1523728552
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/SEP/Prefabs/Building/BuildingParts/Wood/LogParts/SEP_Stairs_Log.prefab
+  uploadId: 779929

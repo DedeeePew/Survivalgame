@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9c59b14776cba024f89a25a00e8117fd
+timeCreated: 1523775655
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/SEP/Prefabs/Weapons/Firearms/SEP_Crossbow.prefab
+  uploadId: 779929

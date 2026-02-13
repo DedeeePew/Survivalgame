@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8a04036c8d72ce245b676a900aa38260
+timeCreated: 1522848867
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/SEP/Models/Weapons/Firearms/DoubleBarrelShotgun/Materials/DoubleBarrelShotgun.mat
+  uploadId: 779929

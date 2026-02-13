@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c4e5ffd656b3aa64c899d57e25a69683
+timeCreated: 1523725571
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/SEP/Prefabs/Decoration/SEP_ExplosiveBarrel.prefab
+  uploadId: 779929

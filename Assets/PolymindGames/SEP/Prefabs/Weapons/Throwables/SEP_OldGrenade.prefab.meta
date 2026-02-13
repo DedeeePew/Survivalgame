@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 14bfe3d6b53dd7147bc2a88df31d7eb3
+timeCreated: 1523777599
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/SEP/Prefabs/Weapons/Throwables/SEP_OldGrenade.prefab
+  uploadId: 779929

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f08c3c20fcac1433a9a930a6a399d5ac
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/3rdParty/ConiferTree/CTIRuntimeComponents_BIRP/Shaders/CTI_LOD_Billboard_301.shader
+  uploadId: 779929

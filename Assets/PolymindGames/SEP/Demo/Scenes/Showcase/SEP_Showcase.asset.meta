@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cbb63b32100bf2f469a027e9f83eb91d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 15600000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/SEP/Demo/Scenes/Showcase/SEP_Showcase.asset
+  uploadId: 779929

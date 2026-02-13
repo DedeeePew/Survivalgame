@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7b4159602f044e24f85bb5fafff6fa98
+timeCreated: 1522676203
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/SEP/Models/Objects/Crates/MetalCrate/Materials/MetalCrate.mat
+  uploadId: 779929

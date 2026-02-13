@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f788bbbe8c1dd324fa28e8c97db52173
+timeCreated: 1523728697
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/SEP/Prefabs/Building/BuildingParts/Wood/Objects/SEP_WoodenSign01_Wall.prefab
+  uploadId: 779929

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7eda483b4f1fb164381a79d1250d4e31
+timeCreated: 1523729159
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/SEP/Prefabs/Building/BuildingParts/Metal/SEP_MetalDoor.prefab
+  uploadId: 779929

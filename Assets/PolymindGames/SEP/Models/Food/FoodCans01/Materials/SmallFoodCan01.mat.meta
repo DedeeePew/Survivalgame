@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e26cf81c2e1e79e4ba651f6759248bb5
+timeCreated: 1488208358
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/SEP/Models/Food/FoodCans01/Materials/SmallFoodCan01.mat
+  uploadId: 779929

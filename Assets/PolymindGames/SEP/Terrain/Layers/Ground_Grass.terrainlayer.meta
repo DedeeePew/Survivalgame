@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ca0c2341922398047a49fc7beccccb58
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/SEP/Terrain/Layers/Ground_Grass.terrainlayer
+  uploadId: 779929

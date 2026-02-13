@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 68eadc6a03aedbc42a57e79a52c4eae4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/SEP/Models/Objects/ClothSack/Materials/ClothSack.mat
+  uploadId: 779929

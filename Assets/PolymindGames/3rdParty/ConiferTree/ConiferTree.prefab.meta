@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e05cb719f7665b34ebee0649f1dc68d3
+labels:
+- Prop
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/3rdParty/ConiferTree/ConiferTree.prefab
+  uploadId: 779929

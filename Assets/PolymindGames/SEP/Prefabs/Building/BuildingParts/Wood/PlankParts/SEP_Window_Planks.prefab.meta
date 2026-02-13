@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 98c3fb7a0caeb6147bf1399a23f3fbb2
+timeCreated: 1523729094
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/SEP/Prefabs/Building/BuildingParts/Wood/PlankParts/SEP_Window_Planks.prefab
+  uploadId: 779929

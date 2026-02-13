@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cd57bbacb6c8ed04b8b76befca27bc51
+timeCreated: 1523727985
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/SEP/Prefabs/Equipment/SEP_MilitaryHat.prefab
+  uploadId: 779929

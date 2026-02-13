@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e2e318122225beb468c331b361227a9a
+timeCreated: 1523775539
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/SEP/Prefabs/Weapons/Firearms/SEP_AKM.prefab
+  uploadId: 779929

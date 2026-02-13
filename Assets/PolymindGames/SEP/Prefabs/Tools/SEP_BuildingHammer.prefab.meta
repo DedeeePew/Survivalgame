@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0ba034347abbd3d47bff9a8aa12edc91
+timeCreated: 1523772993
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/SEP/Prefabs/Tools/SEP_BuildingHammer.prefab
+  uploadId: 779929

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cb71be34e5176e742bd6ae0e5ccd5a5c
+timeCreated: 1523727324
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/SEP/Prefabs/Props/SEP_MetalCrate.prefab
+  uploadId: 779929

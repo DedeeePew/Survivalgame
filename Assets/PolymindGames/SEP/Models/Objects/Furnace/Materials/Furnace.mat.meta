@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5b98a4254211b4c49a27728c01352fb9
+timeCreated: 1522675640
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/SEP/Models/Objects/Furnace/Materials/Furnace.mat
+  uploadId: 779929

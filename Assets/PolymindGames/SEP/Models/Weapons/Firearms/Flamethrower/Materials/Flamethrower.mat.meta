@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 95b4f8f49fc7f77459649d8ddb36bf2c
+timeCreated: 1522846192
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/SEP/Models/Weapons/Firearms/Flamethrower/Materials/Flamethrower.mat
+  uploadId: 779929

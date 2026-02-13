@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 060855d9c6f91ca4ca8278cc964dfcb6
+timeCreated: 1523727974
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/SEP/Prefabs/Equipment/SEP_LeatherArmor.prefab
+  uploadId: 779929

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 74ecb3d924cd576418365d9faa897b5b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/SEP/Models/Buildings/BuildingParts/Stone/Materials/BoulderWall.mat
+  uploadId: 779929

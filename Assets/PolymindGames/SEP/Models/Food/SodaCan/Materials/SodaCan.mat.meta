@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f42d3ba5f91aa8b42bf8edef6179faed
+timeCreated: 1521566295
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/SEP/Models/Food/SodaCan/Materials/SodaCan.mat
+  uploadId: 779929

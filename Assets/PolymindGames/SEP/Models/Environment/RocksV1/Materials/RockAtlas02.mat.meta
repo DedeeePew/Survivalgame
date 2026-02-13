@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 038e37877f48d4f4799c0791d7383319
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/SEP/Models/Environment/RocksV1/Materials/RockAtlas02.mat
+  uploadId: 779929

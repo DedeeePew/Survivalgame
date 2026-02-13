@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b495a22afd478fb479be6a4854bb6c46
+timeCreated: 1523728536
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/SEP/Prefabs/Building/BuildingParts/Wood/LogParts/SEP_Platform_Log.prefab
+  uploadId: 779929

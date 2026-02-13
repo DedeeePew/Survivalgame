@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 52dfa451b3e50084597ce0bdf2ad1525
+timeCreated: 1523725618
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/SEP/Prefabs/Decoration/Ores/SEP_MetalOre.prefab
+  uploadId: 779929

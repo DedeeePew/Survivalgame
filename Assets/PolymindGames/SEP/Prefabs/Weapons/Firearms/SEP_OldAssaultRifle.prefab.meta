@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5b1b20a602ea1134b91d62fbd6af5656
+timeCreated: 1523775670
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/SEP/Prefabs/Weapons/Firearms/SEP_OldAssaultRifle.prefab
+  uploadId: 779929

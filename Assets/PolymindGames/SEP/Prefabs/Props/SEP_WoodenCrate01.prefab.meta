@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4b38381877a997b4ba8d04f129b5018b
+timeCreated: 1523727652
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/SEP/Prefabs/Props/SEP_WoodenCrate01.prefab
+  uploadId: 779929

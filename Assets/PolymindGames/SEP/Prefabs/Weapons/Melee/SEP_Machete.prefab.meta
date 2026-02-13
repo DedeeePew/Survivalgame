@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f01dbdaad3c3c434688b7c71db44165e
+timeCreated: 1523776638
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/SEP/Prefabs/Weapons/Melee/SEP_Machete.prefab
+  uploadId: 779929

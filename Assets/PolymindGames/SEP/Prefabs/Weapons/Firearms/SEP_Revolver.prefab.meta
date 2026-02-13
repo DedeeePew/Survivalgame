@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e40c7e15ff65a1f4d8a2166cdb39f4f6
+timeCreated: 1523775682
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/SEP/Prefabs/Weapons/Firearms/SEP_Revolver.prefab
+  uploadId: 779929

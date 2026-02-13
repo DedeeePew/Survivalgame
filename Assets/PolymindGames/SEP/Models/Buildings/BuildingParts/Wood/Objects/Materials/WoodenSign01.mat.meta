@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 599d922feceb09c419b9ecd657b07c3d
+timeCreated: 1521554737
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/SEP/Models/Buildings/BuildingParts/Wood/Objects/Materials/WoodenSign01.mat
+  uploadId: 779929

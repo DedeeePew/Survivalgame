@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 60e3d6b7b45c38940b382ad3225bc322
+timeCreated: 1523773038
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/SEP/Prefabs/Tools/SEP_StonePickaxe.prefab
+  uploadId: 779929

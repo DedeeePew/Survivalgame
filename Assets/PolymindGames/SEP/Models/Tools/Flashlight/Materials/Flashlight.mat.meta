@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 57d4d2ecd25bd1d4eaa0522e398a6db0
+timeCreated: 1522752974
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/SEP/Models/Tools/Flashlight/Materials/Flashlight.mat
+  uploadId: 779929

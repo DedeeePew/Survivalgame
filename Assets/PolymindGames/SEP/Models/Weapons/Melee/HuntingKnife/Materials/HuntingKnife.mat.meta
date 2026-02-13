@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 74c93083d816e894892b991ebe01e95b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/SEP/Models/Weapons/Melee/HuntingKnife/Materials/HuntingKnife.mat
+  uploadId: 779929

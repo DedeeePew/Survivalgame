@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d323e82c4b5bcbf43b05b34c16643904
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185364
+  packageName: SEP - Survival Essentials Pack
+  packageVersion: 1.3.1
+  assetPath: Assets/PolymindGames/SEP/Prefabs/Tools/SEP_Compass.prefab
+  uploadId: 779929
